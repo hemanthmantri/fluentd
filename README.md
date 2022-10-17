@@ -1,4 +1,4 @@
-Fluentd: Open-Source Log Collector
+Fluentd: Open-Source Log Collector - PR
 ===================================
 
 [![Testing on Ubuntu](https://github.com/fluent/fluentd/actions/workflows/linux-test.yaml/badge.svg?branch=master)](https://github.com/fluent/fluentd/actions/workflows/linux-test.yaml)
